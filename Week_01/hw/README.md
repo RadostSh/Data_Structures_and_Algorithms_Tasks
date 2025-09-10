@@ -1,1 +1,1 @@
-https://www.hackerrank.com/contests/sda-hw-1-2024/challenges/just-sorting-1/submissions/code/1384245846
+[link_hw_1](https://www.hackerrank.com/contests/sda-hw-1-2024/challenges)

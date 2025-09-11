@@ -1,0 +1,7 @@
+[task1](https://leetcode.com/problems/repeated-dna-sequences/description/)
+[task2](https://leetcode.com/problems/maximum-erasure-value/description/)
+[task3](https://leetcode.com/problems/3sum/description/)
+[task4](https://leetcode.com/problems/find-unique-binary-string/description/)
+[task5](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/description/)
+[task6](https://leetcode.com/problems/two-sum/description/)
+[task7](https://leetcode.com/problems/distribute-candies/description/)

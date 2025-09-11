@@ -1,0 +1,1 @@
+[link_hw_10](https://www.hackerrank.com/contests/sda-hw-10-2024/challenges)
